@@ -1,1 +1,2 @@
-This is a text file it’s amazing
+﻿This is a text file it’s amazing
+ok cool
